@@ -10,3 +10,9 @@ We used pond foil to cover the tank and hold the gases as produced by the microb
 From this photo you can see pieces of electricity (gauge 10) wire coming out of the wall some 40 cm from the top of the tank. These were used to attach the cover. You can also see where the inlet is going to be located.
 
 ![Construction of the tank](images/bio1.jpg)
+
+![Inlet side of the tank](images/Foto0002.jpg)
+![Outlet side of the tank](images/Foto0001.jpg)
+![Flame of the gas stove](images/Foto0005.jpg)
+![Flame with pot](images/Foto0004.jpg)
+
