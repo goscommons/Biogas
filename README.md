@@ -23,9 +23,11 @@ Secondly it produces an excelent natural organic fertilizer that is sed for the 
 
 ## Design specifications
 [//]: # (This may be the most platform independent comment)
-- Space, volume needed for the biodigester.
-- Outlet installation reference to off the shelve components, like pipe joints, pipes, etc.
-- Estimate size of pipe outlet dimension.
+- The tank has a size of 300x100x100 cm exterior and 270x70x100 cm interior. The disigned liquid high is about 90 cm giving the installation a total of 1.8 m3 capacity.
+- For the outlet any pipe or rigid tube could be used with an inner diameter of 2cm or more.
+- The inlet pipe should have an inner diameter of at least 10cm
+- The gas outlet could be placed anywhere on the foil preferably using plastic components and a tube of at least 0.8 cm diameter.
+- To attach the foil in a way that no gas can escape we chose to attach it to the tank wall some 40 cm from the top of the wall. Of cource when no gas is used the liquid would be pressed down, eventually forcing the gas out of the tank to the air. We should keep using up all gas the same day that it is produced.
 
 ## References
 1. [Retrieved "Remember the biodigester"](https://www.src.sk.ca/blog/remember-biodigester)
