@@ -1,4 +1,4 @@
-# Mesophilic Biodigester_diagramed_copy
+# Mesophilic Biodigester
 ## validated design
 ![Name of the machine](images/Foto0001.jpg)
 
