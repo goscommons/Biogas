@@ -17,7 +17,7 @@ The biodigester generates economic and ecologic value.
 In the first place it produces biogas which can be used for cooking. For this reason these installations are often referred to as biogas plants.
 Secondly it produces an excelent natural organic fertilizer that is used for the crops of the farm. This organic fertilizer has the following advantages:
 1. It protects and enriches the soil structure in contrast with industrial fertilizers and pesticides.
-2. The farmer does not need to buy potasium or other chemicaliën fertilizers.
+2. The farmer does not need to buy potasium or other chemical fertilizers.
 3. The farmer does not need pesticides anymore or very little because the fertilizer makes the crops healthier and therefore more resistent against deseases and parasites.
 4. The crop yield could be higher because the crops are healthier. We will do some testing to see the effect on banana trees.
 
