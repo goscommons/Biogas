@@ -12,7 +12,7 @@ From the various types of installations that exist we chose the Plug-Flow type, 
 > Anaerobic digestion is a collection of processes by which micro organisms break down biodegradable material in the absence of oxygen.[1] The process is used for industrial or domestic purposes to manage waste and to produce fuel.
 
 ## Use context
-This biodegester can be used to process pig, cow and other kind of biomatter and probably agricutural waste like banana trees can be digester too.
+This biodigester can be used to process pig, cow and other kind of biomatter and probably agricutural waste like banana trees can be digested too.
 The biodigester generates economic and ecologic value.
 In the first place it produces biogas which can be used for cooking. For this reason these installations are often referred to as biogas plants.
 Secondly it produces an excelent natural organic fertilizer that is used for the crops of the farm. This organic fertilizer has the following advantages:
